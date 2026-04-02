@@ -1,11 +1,11 @@
 # ไม่เอาไฟล์ .log ทั้งหมด
-#*.log
+*.log
 
 # ไม่เอาโฟลเดอร์ node_modules
 node_modules/
 
 # ไม่เอาไฟล์ .env
-.env
+#.env
 
 # ไม่เอาไฟล์ OS
 .DS_Store
