@@ -1,3 +1,10 @@
+# 🔰 Project Status
+
+![version](https://img.shields.io/badge/version-0.0.1-blue)
+![docker](https://img.shields.io/badge/docker-ready-blue)
+![git](https://img.shields.io/badge/k8s-ready-brightgreen)
+![status](https://img.shields.io/badge/status-active-success)
+
 # คู่มือการใช้ Git แบบละเอียด
 
 เอกสารนี้ออกแบบมาสำหรับผู้เริ่มต้นจนถึงคนที่ต้องการใช้งาน Git จริงในงานพัฒนาโปรแกรม, System Engineer, DevOps และงานร่วมทีม โดยเขียนในรูปแบบที่สามารถนำไปใช้เป็น `README.md` หรืออัปขึ้น GitHub ได้ทันที
