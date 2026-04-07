@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-0.0.1-blue)
 ![docker](https://img.shields.io/badge/docker-ready-blue)
-![git](https://img.shields.io/badge/k8s-ready-brightgreen)
+![git](https://img.shields.io/badge/git-ready-brightgreen)
 ![status](https://img.shields.io/badge/status-active-success)
 
 # คู่มือการใช้ Git แบบละเอียด
